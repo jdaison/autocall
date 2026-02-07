@@ -11,8 +11,8 @@ export function HeroSection() {
           <Image
             src="/autocall-logo.png"
             alt=""
-            width={80}
-            height={80}
+            width={160}
+            height={160}
             className="rounded-xl"
           />
           <span className="text-2xl font-bold tracking-tight text-slate-900 sm:text-3xl">
@@ -23,7 +23,7 @@ export function HeroSection() {
           No esperes más en línea
         </h1>
         <p className="mt-6 text-lg text-slate-600 sm:text-xl max-w-2xl mx-auto">
-          AutoCall te llama a las empresas por ti. Configura tu llamada en segundos
+          AutoCall te llama a las empresas/amigos por ti. Configura tu llamada en segundos
           y recibe la llamada cuando quieras. Value prop claro y directo.
         </p>
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">

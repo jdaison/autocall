@@ -23,7 +23,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: "AutoCall — No esperes más en línea",
   description:
-    "AutoCall te llama a las empresas por ti. Prueba gratis y olvídate de las esperas.",
+    "AutoCall te llama a las empresas/amigos por ti. Prueba gratis y olvídate de las esperas.",
   manifest: "/manifest.json",
 };
 
